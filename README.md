@@ -26,4 +26,5 @@
   <a href="https://www.linkedin.com/in/diego-costa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
     
+    [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Diegoh-dev&repo=ELLEN2121&theme=react)](https://github.com/Diegoh-dev/Diegoh-dev)
     

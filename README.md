@@ -1,7 +1,7 @@
 ##HELLO! Eu sou o Diego Rennan 👋
 
 - 🔭 Hoje sou estudante de Front-End e Acadêmico de desenvolvimento de sistemas.
-- 🌱Estudando HTML,CSS, JAVASCRIPT.
+- 🌱Estudando HTML,CSS, JAVASCRIPT e REACT.
 - 😄 Pronouns: ele/dele.
 
 

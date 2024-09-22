@@ -4,7 +4,7 @@
 - 🌱HTML,CSS,JAVASCRIPT,TYPESCRIPT,REACT,NEXT.JS,SCSS, JAVA(ESTUDANDO).
 
 - Linguagens
-<br>
+<div style="display: inline_block">
     <img align="center" alt="diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="diego-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 

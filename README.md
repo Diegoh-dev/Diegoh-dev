@@ -1,7 +1,7 @@
 ##HELLO! Eu sou o Diego Rennan 👋
 
 - 🔭 Desenvolvedor Front-End e graduado em desenvolvimento de sistemas.
-- 🌱HTML,CSS,JAVASCRIPT,TYPESCRIPT,REACT,NEXT.JS,SCSS, JAVA(ESTUDANDO).
+- 🌱HTML,CSS,JAVASCRIPT,TYPESCRIPT,REACT,NEXT.JS,SCSS,WEB3,SOLIDITY.
 
 - Linguagens
 <div style="display: inline_block">
